@@ -23,7 +23,7 @@
         },
         "repoURL": {
             "type": "string",
-            "defaultValue": "https://github.com/Azure-Samples/functions-node-sas-token.git",
+            "defaultValue": "https://github.com/orbitera-GH/functions-node-sas-token.git",
             "metadata": {
                 "description": "Repo URL"
             }
